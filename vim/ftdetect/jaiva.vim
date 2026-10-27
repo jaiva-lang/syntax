@@ -1,1 +1,1 @@
-autocmd BufRead,BufNewFile *.jva,*.jiv,*.jaiva setfiletype jaiva
+au BufRead,BufNewFile *.jiv,*.jaiva,*.jva set filetype=jaiva
