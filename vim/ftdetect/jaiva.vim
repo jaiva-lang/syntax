@@ -1,0 +1,1 @@
+autocmd BufRead,BufNewFile *.jva,*.jiv,*.jaiva setfiletype jaiva
